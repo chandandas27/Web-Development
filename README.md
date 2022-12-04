@@ -1,3 +1,6 @@
 # Web-Development
 
-Web Development Use Cases.
+Simple Games are developed as part of web development using HTML, CSS, JavaScript.
+
+
+
